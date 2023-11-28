@@ -1,7 +1,7 @@
 ## LoL Status
 
 Just a small program to check and notify me if League of Legends is currently playable on Linux.
-Inforamtion about status from [leagueoflinux.org](https://leagueoflinux.org).
+Information about status from [leagueoflinux.org](https://leagueoflinux.org).
 
 Program can be run just to check this once or to check every x **<ins>minutes</ins>**
 
